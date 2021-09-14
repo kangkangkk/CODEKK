@@ -5,6 +5,7 @@
     <groupId>com.kangkang</groupId>
     <artifactId>Study</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>Study</name>
     <description>Study</description>
 
